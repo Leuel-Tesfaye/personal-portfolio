@@ -1011,13 +1011,11 @@ info bar
   color: rgb(140, 140, 142) !important;
   position: relative;
   left: 45% !important;
- 
 }
 .art-info-bar .art-lang-skills .art-lang-skills-item .art-cirkle-progress .progressbar-text:after {
   content: "%";
   position: absolute;
   right: -7px;
-  letter-spacing: 1px;
 }
 .art-info-bar .art-hard-skills .art-hard-skills-item {
   margin-bottom: 15px;
