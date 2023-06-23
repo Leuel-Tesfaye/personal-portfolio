@@ -1,11 +1,5 @@
 /* -------------------------------------------
 
-Name: 		Arter
-Version:  1.0
-Author:		Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
-
-p.s. I am available for Freelance hire (UI design, web development). mail: miller.themes@gmail.com
 
 ------------------------------------------- */
 /*--------------------------------------------
@@ -17,7 +11,7 @@ p.s. I am available for Freelance hire (UI design, web development). mail: mille
       - text config
       - container
       - buttons frame
-      - suptitle
+      - subtitle
       - divider
       - image defaults
       - link defaults
@@ -27,7 +21,7 @@ p.s. I am available for Freelance hire (UI design, web development). mail: mille
 2. link
 3. buttons
 4. space
-5. app marcup
+5. app markup
       - top background
       - preloader
       - scroll frame
@@ -36,7 +30,7 @@ p.s. I am available for Freelance hire (UI design, web development). mail: mille
       - info bar
       - content
       - menu bar
-      - marcup media queries
+      - markup media queries
 6. info bar
       - header
       - name
