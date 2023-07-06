@@ -1077,7 +1077,7 @@ info bar
   color: rgb(250, 250, 252);
 }
 
-/* ----- progresbar color ----- */
+/* ----- progressbar color ----- */
 .art-line-progress path:first-child {
   stroke: rgb(25, 25, 35);
 }
